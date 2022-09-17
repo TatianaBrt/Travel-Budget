@@ -39,7 +39,5 @@ function calculateAmount(e){
      
     totalSum=totalSum.toFixed(2);
     document.querySelector("#totalNumber").textContent=totalSum;
-
-   
     
 }

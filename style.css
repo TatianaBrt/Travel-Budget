@@ -2,6 +2,7 @@ body{
     background-image: url(https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #AAC4FF;
    }
    #container{
     background-color: rgba(42, 219, 246, 0.8);
@@ -85,4 +86,48 @@ body{
         color: azure;
         font-family: 'Montserrat', sans-serif;
              width: 200px;
+    }
+
+
+
+
+
+       
+
+
+
+
+
+    @media all and (max-width:500px){
+                
+      h1{
+         font-size: 15px;
+      }
+      #plane, #food, #transport, #entert, #museum, #hotels, #Restaurants {
+         font-size: 8px;
+      }
+      input{
+         padding: 2px;
+         width: 15%;
+      }
+      label{
+         font-size: 12px;
+      }
+      #btn{
+        
+ padding: 4px;
+  font-size: 10px;
+      }
+      #totalAmount{
+         margin: 10px;
+         padding: 10px;
+         font-size: 15px;
+         width: 100px;
+     }
+     #container{
+      width: 250px;
+      height: 600px;
+      border-radius: 30px;
+      }
+      
     }
