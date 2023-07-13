@@ -8,8 +8,14 @@
 
 ## Features
 This project implements expense calculator:
-* used function setInterval
-* used function clearinterval
-* used function Date
+* calculate costs
+* display total
 
 ## Preview
+![Travel_budget - Google Chrome 13 07 2023 12_58_38](https://github.com/TatianaBrt/Travel-Budget/assets/115479875/b990888b-ddac-4cec-88f4-72ea6c91de20)
+
+
+
+
+
+
